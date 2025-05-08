@@ -50,7 +50,7 @@ h1{
     transform: rotateY(180deg);
 }
 .card.flipped .front {
-    transform: roY(-180deg);
+    transform: rotateY(-180deg);
 }
 .card.flipped .back {
     background-color: rgba(0, 0, 255, 0.096);
